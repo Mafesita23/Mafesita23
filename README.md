@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## About me 
+
+Hi, I'm mafe, welcome to my profile of GITHUB. I'm a full stack web developer junior.
+
 <!--
 **Mafesita23/Mafesita23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
