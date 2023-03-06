@@ -8,14 +8,17 @@ I like nature, web design and good vibes
 ![Mafe (1)](https://user-images.githubusercontent.com/116750999/223022232-fb17b72d-389e-4333-aa4e-49836169fd3b.png)
 
 ## Skills
-💻 HTML
-🎨 CSS
-🚀 JavaScript
-⚛️ React
-🔥 Bootstrap
-💹 Node.js
-🚀 Express
-🗄️ MongoDB
+- 💻 HTML
+- 🎨 CSS
+- 🚀 JavaScript
+- ⚛️ React
+- 🔥 Tailwind
+- 💹 Node.js
+- 🚀 Express
+- 🗄️ MongoDB
+
+## 
+
 
 <!--
 **Mafesita23/Mafesita23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
