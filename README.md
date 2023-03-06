@@ -4,6 +4,8 @@
 
 Hi, I'm mafe, welcome to my profile of GITHUB. I'm a full stack web developer junior.
 
+![Mafe (1)](https://user-images.githubusercontent.com/116750999/223022232-fb17b72d-389e-4333-aa4e-49836169fd3b.png)
+
 <!--
 **Mafesita23/Mafesita23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
